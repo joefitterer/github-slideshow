@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-The PDF does not match the video version
+Had the wrong branch for this one.
 Use the left arrow to go back!
